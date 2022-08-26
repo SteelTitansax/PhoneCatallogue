@@ -1,0 +1,6 @@
+.responsive__img{
+    object-fit: contain; 
+    max-height: 150px!important;
+    display: flex; 
+
+}
